@@ -7,3 +7,5 @@ Processing is available for Linux, Mac, and Windows. Select your choice to downl
 https://processing.org/download
 
 Open LogoToPdfNoLine.pde with Processing.
+
+Start Play...
